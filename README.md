@@ -1,0 +1,2 @@
+# Victimfilesdownload_shell
+ 🔐 Post-Exploitation Enumeration & Exfiltration Script (Linux) This script is designed for CTF and lab environments to automate key post-exploitation tasks after gaining a shell on a Linux target.  🧰 Features:  Enumerates SUID binaries (priv esc vectors)  Finds world-writable files  Dumps /etc/passwd, attempts /etc/shadow  Locates SSH private keys and .bash_history  Supports Netcat-based file exfiltration to attacker machine  ⚠️ Educational Use Only – Do not use on live/production systems without permission.
