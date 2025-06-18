@@ -18,7 +18,7 @@ or
 
 How to Use (in your lab):
 
-🖥️ On the Victim Machine (after gaining shell):
+ On the Victim Machine (after gaining shell):
 
 chmod +x post_exploitation_enum_and_exfil.sh
 
