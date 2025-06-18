@@ -1,4 +1,7 @@
 # Victimfilesdownload_shell
+(Note: this can runnable only on victim machine after obtaining shell and use this script with legal permission on systems only)
+
+
 Post-Exploitation Enumeration & Exfiltration Script (Linux os) 
 
 it is about performing post-exploitation tasks after gaining a shell on a Linux system
